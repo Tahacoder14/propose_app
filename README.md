@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-This isn't just another Python project. It's a digital love letter and a marriage proposal, built with Streamlit for the most important person in my life, **Panda 🐼**. It's an attempt to speak in my native language—code—to ask the most important question of my life.
+This isn't just another Python project. It's a digital love letter and a marriage proposal, built with Streamlit for the most important person in my life, **MY LOML**. It's an attempt to speak in my native language—code—to ask the most important question of my life.
 
 ---
 

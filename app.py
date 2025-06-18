@@ -97,7 +97,7 @@ lottie_pleading = load_lottieurl(lottie_pleading_url)
 # -----------------------------------------------------------------------------
 #  PERSONALIZE YOUR MESSAGE HERE
 # -----------------------------------------------------------------------------
-HER_NAME = "Wania"  # Replace with your partner's name
+HER_NAME = "Loml (Love Of My Life  )"  # Replace with your partner's name
 YOUR_NAME = "Taha"
 
 
