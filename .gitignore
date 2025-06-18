@@ -1,0 +1,25 @@
+# Python virtual environment
+# This folder is specific to your machine and can be very large.
+venv/
+.venv/
+
+# Python cache files
+# These are generated automatically by Python.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor configuration folders
+# These are specific to your code editor (like VS Code or PyCharm).
+.vscode/
+.idea/
+
+# Operating System generated files
+# These are system files from macOS and Windows.
+.DS_Store
+Thumbs.db
+
+# Log files
+# It's good practice to ignore log files.
+*.log
